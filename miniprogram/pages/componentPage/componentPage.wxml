@@ -1,0 +1,3 @@
+<!--pages/componentPage/componentPage.wxml-->
+<text id="tapText" bindtap="tapText">简单的点击事件\n</text>
+<text id="bindText">{{value}}</text>
