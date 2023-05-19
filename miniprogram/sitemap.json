@@ -1,7 +1,8 @@
 {
-  "desc": "关于本文件的更多信息，请参考文档 https://developers.weixin.qq.com/miniprogram/dev/framework/sitemap.html",
-  "rules": [{
-  "action": "allow",
-  "page": "*"
-  }]
+    "======描述======": "微信现已开放小程序内搜索，开发者可以通过 sitemap.json 配置",
+    "desc": "关于本文件的更多信息，请参考文档 https://developers.weixin.qq.com/miniprogram/dev/framework/sitemap.html",
+    "rules": [{
+        "action": "allow",
+        "page": "*"
+    }]
 }

@@ -1,4 +1,4 @@
-<!--index.wxml-->
+<!--index.wxml:页面结构-->
 <view class="container">
   <view class="userinfo">
     <block wx:if="{{canIUseOpenData}}">
