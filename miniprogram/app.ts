@@ -1,4 +1,4 @@
-// app.ts
+// app.ts 为小程序逻辑
 App<IAppOption>({
   globalData: {},
   onLaunch() {

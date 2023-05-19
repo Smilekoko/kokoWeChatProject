@@ -1,4 +1,5 @@
 {
+  "app.json 解释":"app.json表示小程序公共配置",
   "pages": [
     "pages/index/index",
     "pages/logs/logs"

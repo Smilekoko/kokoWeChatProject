@@ -1,4 +1,4 @@
-/**app.wxss**/
+/**app.wxss:小程序公共样式**/
 .container {
   height: 100%;
   display: flex;
